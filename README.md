@@ -1,7 +1,7 @@
 # Robot_battery
 find_your_robot_battery
 
-Yes you should find your robot battery's it's a mission for you
+Yes you should find your robot battery's it's a mission for you.
 
 # Things to do
 You must charge your robot before its battery runs out. İf you can't find the
@@ -12,3 +12,17 @@ The code is enriched with desicion structure, list method,
 random selections, function loops and inputs.
 
 ---
+
+With Turkish language
+
+# Robotun_bataryası
+Robotunun_bataryasını_bul
+
+Evet robotunun bataryasını bulmalısın bu senin görevin.
+
+# Yapılacak şey
+Robotunun şarjı bitmeden şarj etmelisin bataryayı bulamazsan şarjı bitecek.
+
+# İçerikler
+Kod karar yapısı, liste metodu, rastgele seçimler, fonksiyon döngüleriyle ve girdi almayla zenginleştirildi.
+
