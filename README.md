@@ -9,6 +9,6 @@ battery, it will run out of energy.
 
 # Contents
 The code is enriched with desicion structure, list method,
-random selections and inputs.
+random selections, function loops and inputs.
 
 ---
