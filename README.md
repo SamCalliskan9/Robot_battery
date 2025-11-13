@@ -24,5 +24,5 @@ Evet robotunun bataryasını bulmalısın bu senin görevin.
 Robotunun şarjı bitmeden şarj etmelisin bataryayı bulamazsan şarjı bitecek.
 
 # İçerikler
-Kod karar yapısı, liste metodu, rastgele seçimler, fonksiyon döngüleriyle ve girdi almayla zenginleştirildi.
+Kod; karar yapısı, liste metodu, rastgele seçimler, fonksiyon döngüleriyle ve girdi almayla zenginleştirildi.
 
